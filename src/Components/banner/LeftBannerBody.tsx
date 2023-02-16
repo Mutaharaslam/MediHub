@@ -8,7 +8,7 @@ export const LeftBannerBody = () => {
         Here’s how to book an appointment:
       </h1>
       <div className="flex justify-center mb-5">
-        <img src={mobilescreen} className='w-10/12 md:w-8/12' alt="mobile" />
+        <img src={mobilescreen} className='w-10/12 md:w-7/12' alt="mobile" />
       </div>
     </div>
   );

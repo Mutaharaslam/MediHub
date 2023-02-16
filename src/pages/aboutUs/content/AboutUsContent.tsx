@@ -34,10 +34,10 @@ export const AboutUsContent = () => {
       </div>
       <div className=" flex justify-center ">
         <div className="flex flex-col lg:flex-row justify-evenly xs:w-3/4 z-10 my-32 items-center ">
-          <div className="lg:w-1/2 w-full flex justify-center">
+          <div className="lg:w-1/2 w-full flex justify-center mb-6">
             <ImageBox customClasses="lg:w-3/5 w-4/5 h-56" />
           </div>
-
+          {/* <span className="text-secondary md:text-base text-xs mb-2 inline-block justify-self-start mr-auto ml-10">About Us</span> */}
           <ContentCard
             content={DataAboutUsContent.content}
             heading={DataAboutUsContent.heading}

@@ -19,9 +19,7 @@ export const DoctorsServicesHero = () => {
         <Button
           label="Make Appointment"
           className="bg-black-secondary text-sm md:text-base text-white  py-3 px-5 rounded-md inline-flex items-center shadow-xl"
-
         />
-
       </Link>
     </div>
   );

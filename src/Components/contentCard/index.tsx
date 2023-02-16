@@ -26,7 +26,6 @@ export const ContentCard: React.FC<IContentCard> = ({
         contentWidth !== "" ? "flex flex-col justify-center items-center" : ""
       }`}
     >
-      <span className="text-secondary md:text-base text-xs mb-2 inline-block">About Us</span>
       <h1
         className="text-white font-normal text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl mb-6"
       >
