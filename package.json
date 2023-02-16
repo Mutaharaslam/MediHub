@@ -26,7 +26,7 @@
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
-    "homepage": "http://mutaharaslam.github.io/MediHub"
+    "homepage": "http://mutaharaslam.github.io/medihub"
   },
   "eslintConfig": {
     "extends": [
